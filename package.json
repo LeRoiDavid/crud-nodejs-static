@@ -1,0 +1,21 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "create api with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NODEJS",
+    "CRUD",
+    "API"
+  ],
+  "author": "Daouda Dione",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "npm": "^9.2.0"
+  }
+}
